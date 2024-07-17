@@ -1,4 +1,3 @@
-## QR Code
-Scan the QR code below to visit our website:
+# Mini Coding Project
 
-![QR Code](qr code.png)
+![GitHub Logo](qrcode.png)
